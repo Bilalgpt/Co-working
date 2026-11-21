@@ -86,7 +86,7 @@
       "Hi Hustle Hub! I'd like to book a tour.%0A" +
       "Name: " + name + "%0APhone: " + phone + "%0AInterested in: " + plan + "%0AWhen: " + msg;
     // open WhatsApp chat prefilled (update the number in index.html too)
-    window.open("https://wa.me/923001234567?text=" + text, "_blank");
+    window.open("https://wa.me/923104665889?text=" + text, "_blank");
     showSuccess();
   }
 
